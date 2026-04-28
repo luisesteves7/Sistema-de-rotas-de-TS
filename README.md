@@ -1,0 +1,1 @@
+SCARIO Sistema de Rotas é uma solução de controle logístico que organiza fluxos de transporte através de uma interface moderna e funcional. Desenvolvido para otimizar a comunicação entre encarregados e motoristas, o sistema garante que cada prazo seja cumprido através de alertas inteligentes e uma gestão centralizada de horários.
